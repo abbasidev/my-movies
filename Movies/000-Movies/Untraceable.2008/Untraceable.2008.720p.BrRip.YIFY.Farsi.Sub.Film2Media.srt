@@ -1,0 +1,4117 @@
+﻿1
+00:02:11,962 --> 00:02:15,090
+This has been America News
+Radio from Washington.
+
+2
+00:02:15,265 --> 00:02:18,860
+Now back to your local
+ANR station for news on the hour.
+
+3
+00:02:19,870 --> 00:02:26,036
+Good evening. You're listening
+to 108.9 FM, KMZR, Portland. This...
+
+4
+00:02:42,793 --> 00:02:43,953
+Evening, ma'am.
+
+5
+00:03:44,922 --> 00:03:46,651
+You, too.
+
+6
+00:03:56,033 --> 00:03:57,500
+- Good evening.
+- Good evening.
+
+7
+00:03:57,668 --> 00:04:00,136
+- Careful. Careful, it's hot.
+- Thank you.
+
+8
+00:04:00,304 --> 00:04:03,603
+- Busy night for the bad guys?
+- Even busier night for us.
+
+9
+00:04:10,213 --> 00:04:12,408
+Okay.
+
+10
+00:04:12,716 --> 00:04:14,809
+Let's see what you got for me.
+
+11
+00:04:19,589 --> 00:04:22,558
+Oh, hey,
+because you're dying to know...
+
+12
+00:04:22,726 --> 00:04:26,822
+...l'm almost positive my first date last
+night is eligible for the hall of fame.
+
+13
+00:04:29,199 --> 00:04:32,032
+She was amazing.
+She looked exactly like her photo.
+
+14
+00:04:32,302 --> 00:04:33,701
+You'll never see her again.
+
+15
+00:04:33,870 --> 00:04:37,033
+- How do you know?
+- Because you look nothing like yours.
+
+16
+00:04:38,308 --> 00:04:40,003
+Nice one.
+
+17
+00:04:56,860 --> 00:05:00,057
+- Here's that guy I was telling you about.
+- Oh, yeah?
+
+18
+00:05:00,230 --> 00:05:03,290
+He changes his name every day.
+It's taken me a week to isolate him.
+
+19
+00:05:03,467 --> 00:05:05,094
+Listen to this.
+
+20
+00:05:06,236 --> 00:05:09,034
+- Tunethief. Com.
+- Oh, how original.
+
+21
+00:05:09,706 --> 00:05:11,901
+Yeah, he offers free downloads
+of pirated music.
+
+22
+00:05:12,075 --> 00:05:14,270
+I'm running this
+in a fake virtual machine.
+
+23
+00:05:14,444 --> 00:05:16,708
+Watch what happens
+when I accept his offer.
+
+24
+00:05:17,881 --> 00:05:20,372
+Now, he's stealing my financial data...
+
+25
+00:05:20,684 --> 00:05:22,515
+...and all my passwords.
+
+26
+00:05:23,220 --> 00:05:26,121
+Which I happened to have gathered
+in a file called "passwords."
+
+27
+00:05:26,289 --> 00:05:28,052
+Nice touch.
+
+28
+00:05:28,392 --> 00:05:31,793
+I threw in a backdoor Trojan so
+we can see what he's doing with it.
+
+29
+00:05:31,962 --> 00:05:35,125
+He's run up a quarter-million dollars
+in fraud the past three weeks.
+
+30
+00:05:35,298 --> 00:05:38,597
+- Well, what's he into?
+- High-end tech and low-end porn.
+
+31
+00:05:38,769 --> 00:05:43,035
+God. You sure it's a guy? If it's
+a woman, she could be my soul mate.
+
+32
+00:05:43,206 --> 00:05:44,639
+Send it over to me.
+
+33
+00:05:45,976 --> 00:05:47,739
+There you go.
+
+34
+00:05:48,178 --> 00:05:50,442
+My dummy Capital One card.
+Hope he goes for it.
+
+35
+00:05:50,614 --> 00:05:51,774
+Okay, I see it.
+
+36
+00:05:54,217 --> 00:05:57,015
+I'm surprised he has
+the patience for auctions.
+
+37
+00:05:57,821 --> 00:06:01,313
+- Oh, you've got him now.
+- Okay, there's his IP address.
+
+38
+00:06:01,792 --> 00:06:03,384
+Let's get his physical one.
+
+39
+00:06:03,560 --> 00:06:06,757
+Portland Police sent this over.
+They weren't sure what to do with it.
+
+40
+00:06:06,930 --> 00:06:08,420
+Thank you.
+
+41
+00:06:09,633 --> 00:06:12,101
+- It is a woman.
+- ER nurse, lives alone.
+
+42
+00:06:13,503 --> 00:06:15,767
+No priors,
+no history of online purchases.
+
+43
+00:06:15,939 --> 00:06:17,668
+It's not her. Gotta be a neighbor...
+
+44
+00:06:17,841 --> 00:06:21,504
+...somebody close by, someone
+who could access her wireless router.
+
+45
+00:06:21,678 --> 00:06:24,670
+Sharon Dobbs lives here.
+
+46
+00:06:25,048 --> 00:06:27,949
+All right. Here we go,
+here's somebody.
+
+47
+00:06:29,586 --> 00:06:33,352
+Sam Barrows. He's a computer
+programmer for the school district.
+
+48
+00:06:33,523 --> 00:06:35,423
+He's lived there six weeks.
+He's a renter.
+
+49
+00:06:35,592 --> 00:06:38,584
+He's registered for three handguns
+and two assault rifles.
+
+50
+00:06:38,762 --> 00:06:39,786
+That's your guy.
+
+51
+00:06:39,963 --> 00:06:42,898
+Jennifer Marsh, FBI Cyber Crimes
+up in Portland.
+
+52
+00:06:43,066 --> 00:06:45,330
+We need you to knock down
+a door for us.
+
+53
+00:07:02,519 --> 00:07:05,147
+Oh, I gotta get reassigned.
+
+54
+00:07:05,555 --> 00:07:07,216
+What's the matter?
+
+55
+00:07:07,390 --> 00:07:09,722
+It's just a sickness. It's just too much.
+
+56
+00:07:09,893 --> 00:07:12,020
+I got this
+retired high school principal...
+
+57
+00:07:12,195 --> 00:07:14,459
+...offering to come over
+to where I'm babysitting.
+
+58
+00:07:14,631 --> 00:07:17,259
+He's got so many chats,
+he can't keep his names straight.
+
+59
+00:07:17,434 --> 00:07:19,629
+He keeps calling me Jill
+instead of Molly.
+
+60
+00:07:19,803 --> 00:07:22,863
+I'm only interested in what his
+cellmates are gonna call him.
+
+61
+00:07:23,039 --> 00:07:24,836
+I'm taking a break. Do you want?
+
+62
+00:07:25,008 --> 00:07:27,476
+- Thank you.
+- You're welcome.
+
+63
+00:07:47,297 --> 00:07:48,355
+All right.
+
+64
+00:08:03,380 --> 00:08:07,043
+I see feet! Get your hands up!
+Get your hands up!
+
+65
+00:08:07,217 --> 00:08:09,913
+On your stomach! On your stomach!
+
+66
+00:08:27,003 --> 00:08:29,096
+- On flawless, cut Natalie K diamonds.
+
+67
+00:08:29,272 --> 00:08:33,402
+Huge savings on one-karat diamonds.
+Presented by the LaRog Brothers.
+
+68
+00:08:37,414 --> 00:08:40,315
+- What the hell is this?
+- I don't know. I'm running it down now.
+
+69
+00:08:40,483 --> 00:08:41,780
+It is streaming live.
+
+70
+00:08:41,952 --> 00:08:44,420
+Just when you thought
+you've seen it all.
+
+71
+00:08:44,788 --> 00:08:47,313
+Oh, look, a message from our sponsor.
+
+72
+00:08:47,490 --> 00:08:50,482
+"Ha-ha. Only serious."
+
+73
+00:08:53,496 --> 00:08:54,827
+Jennifer Marsh, Cyber Crimes.
+
+74
+00:08:55,232 --> 00:08:58,565
+Carter Thompson here.
+I'm at the Barrow residence.
+
+75
+00:08:59,035 --> 00:09:02,061
+The suspect's in custody.
+Hard drive's intact.
+
+76
+00:09:02,239 --> 00:09:06,266
+- Plenty of contraband.
+- Good work. Hey, let me guess.
+
+77
+00:09:06,443 --> 00:09:09,708
+It's not just Barrow. His son's
+involved. He's got a son?
+
+78
+00:09:09,879 --> 00:09:11,346
+What makes you say that?
+
+79
+00:09:11,514 --> 00:09:13,914
+Well, high-tech toys and porn...
+
+80
+00:09:14,117 --> 00:09:16,847
+...and then out of the blue,
+he buys a gold wristwatch.
+
+81
+00:09:17,020 --> 00:09:18,954
+How come? And then it hit me.
+
+82
+00:09:19,122 --> 00:09:23,684
+01-10-57.
+Sunday's his father's birthday.
+
+83
+00:09:24,961 --> 00:09:26,792
+Sweet dreams, Marsh.
+
+84
+00:09:32,836 --> 00:09:33,860
+Good morning.
+
+85
+00:09:34,037 --> 00:09:37,529
+We'll return to America News Radio
+after the local news and weather.
+
+86
+00:09:37,707 --> 00:09:39,436
+It's the 7:00 hour.
+
+87
+00:09:39,609 --> 00:09:43,272
+This is KMZR, 108.9 FM, Portland.
+
+88
+00:09:43,446 --> 00:09:47,644
+And on the Web at mzrnews. Org.
+First, the weather.
+
+89
+00:09:47,817 --> 00:09:51,309
+The hurricane system that has poured
+3 inches of rain on western Portland...
+
+90
+00:09:51,488 --> 00:09:54,389
+... in the past 24 hours
+has finally let up.
+
+91
+00:09:54,557 --> 00:09:57,890
+Though there is no sign of an easing
+of the near-freezing temperatures...
+
+92
+00:09:59,696 --> 00:10:03,996
+OnStar operator Tina. Good morning,
+Ms. Marsh. How can I assist you?
+
+93
+00:10:04,167 --> 00:10:06,067
+Yes, Tina.
+
+94
+00:10:06,469 --> 00:10:09,927
+I'd like to get home
+sometime before Easter.
+
+95
+00:10:10,106 --> 00:10:11,937
+I'm in a traffic jam here.
+
+96
+00:10:12,108 --> 00:10:14,133
+Okay, let's see.
+
+97
+00:10:14,311 --> 00:10:17,246
+You're in the middle
+of a gaper's block.
+
+98
+00:10:17,414 --> 00:10:21,248
+You should be past the accident
+in about 100 yards.
+
+99
+00:10:21,418 --> 00:10:26,287
+- Okay, I see it now. Thank you.
+- You're welcome.
+
+100
+00:10:29,492 --> 00:10:32,222
+Come on, keep it moving.
+
+101
+00:11:05,428 --> 00:11:08,522
+- Shit, you scared me.
+- Watch your mouth, young lady.
+
+102
+00:11:09,032 --> 00:11:13,128
+Hey, that's what I said to you
+when you were a kid.
+
+103
+00:11:13,303 --> 00:11:16,500
+I know, Mom. That's what
+makes it so darn funny.
+
+104
+00:11:16,673 --> 00:11:18,402
+Oh, somebody's crabby.
+
+105
+00:11:18,575 --> 00:11:21,442
+Sorry. Long night.
+
+106
+00:11:36,993 --> 00:11:38,893
+Mom!
+
+107
+00:11:39,062 --> 00:11:41,724
+- Look at the outfit I'm making.
+- I can see that.
+
+108
+00:11:41,898 --> 00:11:44,731
+- You're stealing my job.
+- You were late.
+
+109
+00:11:44,901 --> 00:11:48,234
+I know. I'm sorry about that, sweetie.
+
+110
+00:11:49,172 --> 00:11:50,400
+Catch any bad guys?
+
+111
+00:11:51,775 --> 00:11:54,539
+One. Just one.
+
+112
+00:12:00,083 --> 00:12:01,243
+Okay, I'm coming.
+
+113
+00:12:01,418 --> 00:12:05,548
+Slowpoke. The slowest poke
+I've ever seen, ever.
+
+114
+00:12:06,356 --> 00:12:08,221
+I'm coming.
+
+115
+00:12:10,960 --> 00:12:13,485
+- How are things with you and Maddy?
+- Better.
+
+116
+00:12:13,663 --> 00:12:16,257
+Mrs. Tischler's gonna
+give us a second chance.
+
+117
+00:12:16,433 --> 00:12:19,869
+- A second chance at what?
+- Being friends.
+
+118
+00:12:20,036 --> 00:12:22,800
+Oh, of course. I think that's great.
+
+119
+00:12:23,139 --> 00:12:26,472
+She can come to my party now.
+Make sure to send her mom an Evite.
+
+120
+00:12:26,643 --> 00:12:28,611
+- You got it.
+- Maybe Grandma should do it.
+
+121
+00:12:28,778 --> 00:12:29,972
+- I'll do it.
+- Are you sure?
+
+122
+00:12:30,146 --> 00:12:33,274
+When I say I'll do it, I'll do it,
+okay? I promise.
+
+123
+00:12:33,450 --> 00:12:35,611
+- I love you.
+- I love you, too, babe.
+
+124
+00:12:43,860 --> 00:12:47,352
+I bet you'd like me
+to do this some other time!
+
+125
+00:13:14,057 --> 00:13:16,082
+Hey, friendly.
+
+126
+00:14:08,111 --> 00:14:11,239
+All right, Jennifer. Let's see
+this tortured kitty of yours.
+
+127
+00:14:11,414 --> 00:14:13,348
+Torture's over, sir.
+
+128
+00:14:14,017 --> 00:14:17,475
+- Yeah, I should say so.
+- Poor Lulu.
+
+129
+00:14:17,654 --> 00:14:19,087
+That was the cat's name.
+
+130
+00:14:19,822 --> 00:14:22,689
+The owner, Scotty Hillman,
+26, from West Linn...
+
+131
+00:14:22,859 --> 00:14:26,955
+...says she was snatched a few days
+ago from his lawn during a yard sale.
+
+132
+00:14:27,130 --> 00:14:29,064
+He recognized her fancy collar.
+
+133
+00:14:29,232 --> 00:14:30,824
+West Linn. So this site...
+
+134
+00:14:31,000 --> 00:14:33,901
+...which could have originated
+anywhere from Oslo to Istanbul...
+
+135
+00:14:34,070 --> 00:14:35,662
+Is local. Yes, sir.
+
+136
+00:14:35,838 --> 00:14:37,465
+The odds of that are pretty steep.
+
+137
+00:14:37,640 --> 00:14:40,871
+About a million to one, if it were
+a coincidence, which it's not.
+
+138
+00:14:41,044 --> 00:14:44,172
+The only way we found out about this
+is because it was tipped...
+
+139
+00:14:44,347 --> 00:14:48,374
+...to the county sheriff's office and the
+police within minutes of it going up.
+
+140
+00:14:48,551 --> 00:14:51,520
+Both tips came from a pay phone
+in the central city...
+
+141
+00:14:51,688 --> 00:14:55,283
+...so whoever is behind the site
+is local and wants attention.
+
+142
+00:14:55,458 --> 00:14:57,426
+- Shut him down.
+- I just did.
+
+143
+00:15:00,663 --> 00:15:03,154
+- There you go.
+- I'll type the address in again.
+
+144
+00:15:10,540 --> 00:15:12,132
+It's been doing that all night.
+
+145
+00:15:12,308 --> 00:15:16,244
+The site's IP changes constantly. Each
+new address is an exploited server...
+
+146
+00:15:16,412 --> 00:15:18,277
+...that's running a mirror of the site.
+
+147
+00:15:18,681 --> 00:15:21,343
+The site's Russian name server
+uses a low TTL...
+
+148
+00:15:21,517 --> 00:15:24,543
+...so your computer constantly queries
+the name server's record.
+
+149
+00:15:24,721 --> 00:15:27,053
+That's how it gives
+you a new address consistently.
+
+150
+00:15:27,223 --> 00:15:29,919
+There are thousands of exploited
+servers on the Internet...
+
+151
+00:15:30,093 --> 00:15:32,152
+...so he won't run out of victims soon.
+
+152
+00:15:32,328 --> 00:15:34,296
+He's accessing these machines
+so quickly...
+
+153
+00:15:34,464 --> 00:15:36,694
+...he's got to be
+running his own botnet.
+
+154
+00:15:36,866 --> 00:15:38,356
+We are blackholing these IPs...
+
+155
+00:15:38,534 --> 00:15:41,628
+...but every time we shut one down,
+a new mirror pops up.
+
+156
+00:15:41,804 --> 00:15:44,204
+I don't understand a single word
+you just said.
+
+157
+00:15:44,374 --> 00:15:46,137
+What does Russia
+have to do with this?
+
+158
+00:15:46,309 --> 00:15:49,472
+The domain registrar
+and name servers are all in Russia.
+
+159
+00:15:49,646 --> 00:15:51,637
+We have no jurisdiction there.
+
+160
+00:15:52,281 --> 00:15:54,146
+Jennifer...
+
+161
+00:15:54,317 --> 00:15:56,080
+... it's a cat.
+- Yeah.
+
+162
+00:15:56,252 --> 00:15:59,619
+Considering the state of the world,
+aren't there more important things...
+
+163
+00:15:59,789 --> 00:16:03,247
+...to be concerned about, like
+something under our jurisdiction?
+
+164
+00:16:05,828 --> 00:16:07,955
+Back to work, gentlemen.
+
+165
+00:16:18,374 --> 00:16:21,969
+Things are about to get warmer when
+one of the hottest hockey rivalries...
+
+166
+00:16:57,280 --> 00:17:00,408
+Are you the guy? You got the
+extra ticket for the hockey game?
+
+167
+00:17:22,238 --> 00:17:26,174
+Grandma! Grandma! Grandma!
+
+168
+00:17:26,342 --> 00:17:27,866
+- Did you get it?
+- Yes, I did!
+
+169
+00:17:28,044 --> 00:17:30,069
+Oh, my God, I'm so proud of you!
+
+170
+00:17:30,246 --> 00:17:33,147
+And the boy I fought was so tall too.
+
+171
+00:17:33,316 --> 00:17:36,581
+- Careful, I'm all wet.
+- So am I.
+
+172
+00:17:36,753 --> 00:17:39,984
+We celebrated. We had an ice cream.
+
+173
+00:17:40,456 --> 00:17:42,083
+Hello.
+
+174
+00:18:20,196 --> 00:18:21,254
+Mom?
+
+175
+00:18:21,430 --> 00:18:23,728
+- Honey... Mom, please!
+- Okay, okay.
+
+176
+00:18:23,900 --> 00:18:26,164
+Come on, baby.
+Let's get you out of these clothes.
+
+177
+00:18:30,840 --> 00:18:34,537
+I've been monitoring the site all week.
+Nothing but a still of the dead kitten.
+
+178
+00:18:34,710 --> 00:18:37,702
+Last night around 11, the site
+went down, I'd hoped forever.
+
+179
+00:18:37,880 --> 00:18:42,408
+Anyway, a few minutes ago, this.
+
+180
+00:18:44,187 --> 00:18:46,747
+It's the same basement
+still streaming live.
+
+181
+00:18:46,923 --> 00:18:50,950
+The top is the number of active viewers
+and some chemical-dosage flow.
+
+182
+00:18:51,127 --> 00:18:53,823
+He's carved the name of the website
+into the guy's chest.
+
+183
+00:18:53,996 --> 00:18:55,588
+He's threatening to drain him.
+
+184
+00:18:55,765 --> 00:18:58,825
+Threatening to drain what, his blood?
+How's he gonna do that?
+
+185
+00:18:59,001 --> 00:19:01,697
+Those letters aren't any deeper
+than paper cuts.
+
+186
+00:19:01,871 --> 00:19:03,338
+Not the cuts, it's the bleeding.
+
+187
+00:19:03,506 --> 00:19:06,498
+We think that box regulates
+the fluid going into the victim.
+
+188
+00:19:06,676 --> 00:19:09,509
+Those cables are probably
+connected to our guy's computer.
+
+189
+00:19:09,679 --> 00:19:12,375
+Look, his nose is starting
+to bleed and he's bruising.
+
+190
+00:19:12,548 --> 00:19:15,073
+We think those bags have
+some anticoagulant in them.
+
+191
+00:19:15,251 --> 00:19:18,448
+I've got a list of them right here.
+The most common is heparin.
+
+192
+00:19:18,621 --> 00:19:22,785
+If you get the dose right, you save a
+life. Wrong, you've got a hemophiliac.
+
+193
+00:19:23,726 --> 00:19:27,093
+So the more people who visit the site,
+the more the drug is released...
+
+194
+00:19:27,263 --> 00:19:28,560
+...and the faster he bleeds.
+
+195
+00:19:28,731 --> 00:19:31,256
+- That's what we believe.
+- Well, isn't that wonderful?
+
+196
+00:19:31,434 --> 00:19:34,961
+Well, if that counter is accurate,
+the public would seem to agree.
+
+197
+00:19:35,137 --> 00:19:37,071
+They're tuning in at an alarming rate.
+
+198
+00:19:37,240 --> 00:19:39,538
+The victim's name
+is Herbert Miller, 54.
+
+199
+00:19:39,709 --> 00:19:43,076
+Lives in Sellwood, works
+for Burnside Executive Charter.
+
+200
+00:19:43,246 --> 00:19:47,182
+Friday night, got back from a shuttle
+to Mount Hood, called his wife...
+
+201
+00:19:47,350 --> 00:19:50,615
+...says that he gets an e-mail
+from a friend of a friend...
+
+202
+00:19:50,786 --> 00:19:53,653
+...offering center-ice seats
+to the Winter Hawks game.
+
+203
+00:19:53,823 --> 00:19:55,848
+He promises
+he'll be home afterwards.
+
+204
+00:19:56,025 --> 00:19:57,890
+- He wasn't.
+- Any priors?
+
+205
+00:19:59,061 --> 00:20:01,586
+- Who, Miller?
+- Why is that relevant?
+
+206
+00:20:01,764 --> 00:20:04,494
+Remember that snuff film
+sent to the L.A. Office last year?
+
+207
+00:20:04,667 --> 00:20:07,534
+Teenage geisha cut in two.
+Looked as real as anything you saw.
+
+208
+00:20:07,703 --> 00:20:11,571
+Six weeks later, they found her alive
+and well, waiting tables in Little Tokyo.
+
+209
+00:20:11,741 --> 00:20:14,608
+Maybe Miller's involved somehow.
+Maybe there's a connection.
+
+210
+00:20:26,656 --> 00:20:29,489
+What are you doing to me?
+
+211
+00:20:55,051 --> 00:20:56,143
+Mrs. Miller!
+
+212
+00:21:00,356 --> 00:21:02,051
+Just go away. Just leave.
+
+213
+00:21:02,224 --> 00:21:05,091
+- Okay, folks, one side, please.
+- I don't know.
+
+214
+00:21:05,261 --> 00:21:08,025
+Come on. Police.
+Coming through. Mrs. Miller.
+
+215
+00:21:08,564 --> 00:21:10,555
+Back off. Back off. Mrs. Miller.
+
+216
+00:21:10,733 --> 00:21:13,361
+- Portland Police. May we come in?
+- Thank God you're here.
+
+217
+00:21:13,536 --> 00:21:15,697
+I need you to back off right now.
+
+218
+00:21:17,440 --> 00:21:21,274
+My name is Detective Box.
+This is my partner, Detective Moy.
+
+219
+00:21:21,444 --> 00:21:25,380
+Listen, is there someplace
+else we can talk?
+
+220
+00:21:26,382 --> 00:21:27,713
+Yeah, let's go outside.
+
+221
+00:21:35,091 --> 00:21:37,855
+Oh, shit. Fuck!
+
+222
+00:21:39,095 --> 00:21:41,996
+So, Mrs. Miller, when was the
+last time you saw your husband?
+
+223
+00:21:42,898 --> 00:21:44,388
+Yesterday morning.
+
+224
+00:21:44,567 --> 00:21:50,028
+He called, and he said he'd got tickets
+to the Winter Hawks game last night.
+
+225
+00:21:50,206 --> 00:21:54,074
+He likes hockey, and I just wanted
+him to come straight home.
+
+226
+00:21:54,243 --> 00:21:56,404
+Okay. Listen...
+
+227
+00:21:56,579 --> 00:22:00,140
+...I understand what you're going
+through is very difficult. All right?
+
+228
+00:22:00,316 --> 00:22:04,150
+But you're making it worse by talking
+to the press. Don't talk to the press.
+
+229
+00:22:04,320 --> 00:22:05,548
+Do you understand? Listen.
+
+230
+00:22:05,721 --> 00:22:09,418
+Don't talk to the press
+and stay off the computer. Okay?
+
+231
+00:22:31,414 --> 00:22:34,474
+Listen to this. I'm running the logs
+from that mirror we took down.
+
+232
+00:22:34,650 --> 00:22:38,882
+He's blocking all the foreign IPs. Only
+Americans can gain access to the site.
+
+233
+00:22:39,055 --> 00:22:41,046
+How patriotic.
+
+234
+00:22:41,657 --> 00:22:44,854
+We've scanned every newsgroup,
+chat room, blog, website and forum...
+
+235
+00:22:45,027 --> 00:22:48,622
+...referencing "Kill With Me,"
+and I think we found our first post.
+
+236
+00:22:48,798 --> 00:22:52,427
+It appeared just before the site went
+up, then it was spammed Web-wide.
+
+237
+00:22:52,601 --> 00:22:55,161
+"A cat caught in a rattrap.
+How's that for irony?
+
+238
+00:22:55,337 --> 00:22:58,397
+It's streaming live on killwithme. Com.
+It's awesome. Check it out."
+
+239
+00:22:58,574 --> 00:23:01,407
+It was posted by a sophomore
+named Andrew Kilburn.
+
+240
+00:23:01,577 --> 00:23:05,604
+It came from his account, but it didn't
+actually originate from his computer.
+
+241
+00:23:05,781 --> 00:23:08,716
+So our guy hacked his account
+and used it to start the thread.
+
+242
+00:23:08,884 --> 00:23:11,079
+- Yeah.
+- Let's go after the originating IP.
+
+243
+00:23:14,990 --> 00:23:17,015
+Oh, God.
+
+244
+00:23:17,193 --> 00:23:19,058
+It's too bad this guy wasn't
+a Boy Scout.
+
+245
+00:23:19,228 --> 00:23:21,753
+He could just blink Morse code
+and tell us where he is.
+
+246
+00:23:35,611 --> 00:23:39,775
+Okay, I've got the "who is."
+It comes back Blue Sky ISP.
+
+247
+00:23:39,949 --> 00:23:43,942
+- Username and password, please.
+- Coming to you now.
+
+248
+00:23:47,022 --> 00:23:49,718
+- "Chang's Restaurant"?
+- He hacked into their site?
+
+249
+00:23:49,892 --> 00:23:52,690
+No. No. Half the office eats there.
+
+250
+00:23:52,862 --> 00:23:55,831
+He's messing with us.
+He wanted us to find this.
+
+251
+00:23:55,998 --> 00:23:58,125
+Who the hell is this guy?
+
+252
+00:24:05,107 --> 00:24:07,598
+Jennifer Marsh, Detective Eric Box.
+
+253
+00:24:07,776 --> 00:24:09,971
+Portland Police has him
+on the Miller abduction.
+
+254
+00:24:10,146 --> 00:24:13,513
+- Jennifer's our case agent on this.
+- Case agent, sir?
+
+255
+00:24:13,682 --> 00:24:15,547
+- You caught it, you got it.
+- Please.
+
+256
+00:24:15,718 --> 00:24:18,653
+Sir, anyone else. You know I'm
+on nights because of my daughter.
+
+257
+00:24:18,821 --> 00:24:20,755
+I understand that, but you're it.
+
+258
+00:24:22,057 --> 00:24:23,888
+- We forming a task force?
+- Not yet.
+
+259
+00:24:24,059 --> 00:24:25,890
+Not yet?
+How much more do you need?
+
+260
+00:24:26,061 --> 00:24:29,724
+So far we have one dead cat and a man
+who may or may not be in danger...
+
+261
+00:24:29,899 --> 00:24:33,198
+That's today. You think this is it?
+It's just the beginning.
+
+262
+00:24:33,769 --> 00:24:35,259
+Marsh, hold it.
+
+263
+00:24:35,437 --> 00:24:38,167
+You share what you've got,
+and then you take it from there.
+
+264
+00:24:38,340 --> 00:24:41,002
+Appreciate your coming in, detective.
+
+265
+00:24:44,013 --> 00:24:46,277
+All right. You first.
+
+266
+00:24:46,682 --> 00:24:49,583
+Well, we found Miller's car
+in the Rose Garden parking lot.
+
+267
+00:24:49,752 --> 00:24:51,686
+No prints but his own.
+
+268
+00:24:51,854 --> 00:24:54,755
+We passed out photos of the
+basement to some local contractors.
+
+269
+00:24:54,924 --> 00:24:58,416
+They say, judging from the timbers,
+the house was built in the '20s or '30s.
+
+270
+00:24:58,594 --> 00:25:01,757
+Which narrows it down to,
+you know, half the city.
+
+271
+00:25:04,900 --> 00:25:05,924
+Yeah, what else?
+
+272
+00:25:06,101 --> 00:25:08,831
+Miller appears to be a decent guy.
+He's a Vietnam vet...
+
+273
+00:25:09,004 --> 00:25:11,996
+...coaches his daughter's soccer,
+they go to church every Sunday.
+
+274
+00:25:12,174 --> 00:25:14,301
+So why'd the subject pick him?
+
+275
+00:25:15,177 --> 00:25:16,769
+"Subject"?
+
+276
+00:25:17,680 --> 00:25:19,113
+Are we in science class?
+
+277
+00:25:19,882 --> 00:25:22,578
+- What would you prefer?
+- How about "piece of shit"?
+
+278
+00:25:24,186 --> 00:25:25,676
+Why Miller?
+
+279
+00:25:26,322 --> 00:25:28,586
+I don't know. Maybe it was random.
+
+280
+00:25:28,757 --> 00:25:30,588
+What about the kitten?
+Talk to that guy?
+
+281
+00:25:30,759 --> 00:25:32,989
+Scotty Hillman, yeah.
+He's a fucking jackass.
+
+282
+00:25:33,162 --> 00:25:35,562
+All he cares about is getting
+the kitten's collar...
+
+283
+00:25:35,731 --> 00:25:38,666
+...because he paid 12 bucks
+for it on bidityours. Com
+
+284
+00:25:38,834 --> 00:25:41,667
+Which I suppose is a lot of money
+if you're flipping burgers.
+
+285
+00:25:41,837 --> 00:25:45,295
+What I would like to know is,
+why him? Why his kitten?
+
+286
+00:25:45,474 --> 00:25:48,841
+Why take the risk of stealing when
+you can get one free at any shelter?
+
+287
+00:25:49,345 --> 00:25:52,075
+- What do you guys got?
+- It's a website.
+
+288
+00:25:52,248 --> 00:25:55,342
+It's like nothing we've ever seen.
+It's extremely sophisticated.
+
+289
+00:25:55,517 --> 00:25:58,611
+As long as its source-streaming site
+is a ghost, it's untraceable.
+
+290
+00:25:59,555 --> 00:26:02,615
+This guy can invite the world to help
+him kill Miller or anybody...
+
+291
+00:26:02,791 --> 00:26:05,624
+...and there's not a goddamn thing
+we can do about it.
+
+292
+00:26:10,266 --> 00:26:11,858
+Excuse me.
+
+293
+00:26:21,277 --> 00:26:24,610
+- It's over.
+- Yeah.
+
+294
+00:26:25,180 --> 00:26:29,014
+The numbers, they just... exploded.
+
+295
+00:26:35,357 --> 00:26:38,053
+"Rolling on the floor laughing.
+
+296
+00:26:38,227 --> 00:26:39,387
+Thank you for..."
+
+297
+00:26:40,262 --> 00:26:42,696
+"For all your support.
+
+298
+00:26:42,865 --> 00:26:44,127
+More to come."
+
+299
+00:26:46,368 --> 00:26:48,529
+Well, we'll see about that.
+
+300
+00:26:52,508 --> 00:26:54,738
+It's a jungle in there.
+
+301
+00:27:23,906 --> 00:27:28,138
+Hey, I just went to the site
+after the guy was dead...
+
+302
+00:27:28,310 --> 00:27:31,768
+I got a list of assholes my girlfriends
+and me think he ought to kill next.
+
+303
+00:27:31,947 --> 00:27:38,079
+Last seen five days ago, FBI agents
+have been working around the clock...
+
+304
+00:27:47,830 --> 00:27:49,491
+There's a pickup truck.
+
+305
+00:27:49,665 --> 00:27:51,633
+What's that on the back, a gun rack?
+
+306
+00:27:51,967 --> 00:27:55,801
+Yeah, well, there's no way that freak is
+stepping foot in my dad's country club.
+
+307
+00:27:55,971 --> 00:27:57,802
+So call Tucker.
+
+308
+00:28:12,054 --> 00:28:14,887
+- At 7: 15 a.m., a vehicle at the home...
+
+309
+00:28:15,057 --> 00:28:17,787
+... of Oregon congressman
+Joseph A. Restom.
+
+310
+00:28:17,960 --> 00:28:20,929
+Herbert Miller had been the focus
+of an intense local...
+
+311
+00:28:21,096 --> 00:28:23,087
+... and statewide police
+and FBI search...
+
+312
+00:28:23,265 --> 00:28:25,631
+... since midday Saturday
+when he showed up...
+
+313
+00:28:25,801 --> 00:28:29,567
+...on an Internet website
+being tortured and murdered live.
+
+314
+00:28:29,738 --> 00:28:33,401
+Now, because of the uniqueness
+of the crime, and because the FBI...
+
+315
+00:28:33,575 --> 00:28:37,409
+...is able to provide resources
+critical to this investigation...
+
+316
+00:28:38,046 --> 00:28:42,176
+...they will be leading the interagency
+task force assigned to the case.
+
+317
+00:28:43,152 --> 00:28:47,282
+He flew helicopters for a living. What's
+his connection to a U.S. Congressman?
+
+318
+00:28:47,456 --> 00:28:51,187
+Our guy had to dump the body.
+Why not on a national stage?
+
+319
+00:28:51,360 --> 00:28:54,659
+You think he did it to get a press
+conference? Build up his fan base?
+
+320
+00:28:54,830 --> 00:28:56,821
+Don't call them fans.
+They're accomplices.
+
+321
+00:28:56,999 --> 00:28:59,900
+All right, whatever.
+Why'd he choose Restom?
+
+322
+00:29:00,068 --> 00:29:01,399
+He's owned by Silicon Valley.
+
+323
+00:29:01,570 --> 00:29:04,505
+He sits on the House Judiciary
+Committee on Net neutrality.
+
+324
+00:29:04,673 --> 00:29:07,506
+No restriction on content,
+all traffic treated equally.
+
+325
+00:29:07,676 --> 00:29:10,474
+- Wouldn't our guy be for that?
+- You'd think so.
+
+326
+00:29:10,646 --> 00:29:12,614
+Miller's clients
+were corporate executives.
+
+327
+00:29:12,781 --> 00:29:14,248
+Maybe some were from high-tech.
+
+328
+00:29:14,416 --> 00:29:16,407
+I'll track down a customer list.
+
+329
+00:29:16,585 --> 00:29:19,520
+- What about the neighbors?
+- One saw a van drive by at 4 a.m.
+
+330
+00:29:19,688 --> 00:29:21,781
+Another heard a car door slam
+a minute later.
+
+331
+00:29:21,957 --> 00:29:23,948
+Figured it was the paper
+being delivered.
+
+332
+00:29:24,126 --> 00:29:26,253
+Excuse me a second.
+Might have something here.
+
+333
+00:29:26,428 --> 00:29:28,828
+- What is it?
+- Tip just came in through a hot line.
+
+334
+00:29:28,997 --> 00:29:33,400
+Guy named Arthur James Elmer, an
+engineer at Chadwick Technologies.
+
+335
+00:29:33,569 --> 00:29:35,696
+He was fired six months ago...
+
+336
+00:29:35,871 --> 00:29:38,339
+...for installing a wireless Webcam
+in the men's room.
+
+337
+00:29:38,507 --> 00:29:41,840
+Nice. Anyway, he's been talking
+about killwithme.com nonstop...
+
+338
+00:29:42,010 --> 00:29:44,274
+...ever since the kitty died.
+Wanna ride with us?
+
+339
+00:29:44,446 --> 00:29:46,346
+Let me check this guy out
+on my end.
+
+340
+00:29:46,515 --> 00:29:48,642
+- We'll catch up later.
+- Yeah.
+
+341
+00:30:17,446 --> 00:30:20,779
+- So, what's going on?
+- He won't let us in. Kind of shy.
+
+342
+00:30:28,323 --> 00:30:29,881
+Elmer.
+
+343
+00:30:32,394 --> 00:30:35,886
+Look, if you didn't do anything,
+you got nothing to lose letting us in.
+
+344
+00:30:36,865 --> 00:30:40,357
+And if you did, we can always
+come back with a warrant.
+
+345
+00:30:43,171 --> 00:30:45,298
+So how do you wanna play it?
+
+346
+00:30:53,582 --> 00:30:55,106
+Hi.
+
+347
+00:30:56,084 --> 00:30:57,676
+I'm Detective Box.
+
+348
+00:30:57,853 --> 00:31:00,083
+Unusual name.
+
+349
+00:31:01,456 --> 00:31:03,617
+Well, it wasn't up to me.
+
+350
+00:31:05,928 --> 00:31:09,523
+So you really think I killed that guy?
+
+351
+00:31:11,133 --> 00:31:13,033
+I don't know. Did you?
+
+352
+00:31:14,036 --> 00:31:15,367
+Well, I'm flattered.
+
+353
+00:31:15,537 --> 00:31:18,700
+I found it highly entertaining,
+especially at the end.
+
+354
+00:31:18,874 --> 00:31:20,933
+The way viewership
+increased exponentially...
+
+355
+00:31:21,109 --> 00:31:24,272
+...like some sort of epidemic.
+
+356
+00:31:25,280 --> 00:31:27,111
+Can I see the basement?
+
+357
+00:32:09,524 --> 00:32:11,287
+You like movies, huh?
+
+358
+00:32:12,227 --> 00:32:13,717
+Yeah, who doesn't?
+
+359
+00:32:15,030 --> 00:32:16,497
+Me.
+
+360
+00:32:19,034 --> 00:32:20,797
+Burn your own copies?
+
+361
+00:32:20,969 --> 00:32:22,493
+You know that's illegal, right?
+
+362
+00:32:33,849 --> 00:32:36,079
+Can't say they didn't warn you.
+
+363
+00:32:51,333 --> 00:32:53,927
+Got our proof it wasn't Elmer.
+
+364
+00:32:54,736 --> 00:32:56,431
+Starting Friday at 1 p. M...
+
+365
+00:32:56,772 --> 00:33:00,799
+...Elmer was logged into a chat
+room for 12 consecutive hours.
+
+366
+00:33:00,976 --> 00:33:04,844
+At the time Miller disappeared,
+Elmer was in a steamy private chat...
+
+367
+00:33:05,013 --> 00:33:08,813
+...with the first tenor of the
+Men's Chorus of Greater Tacoma.
+
+368
+00:33:08,984 --> 00:33:11,111
+It still felt good arresting him.
+
+369
+00:33:33,709 --> 00:33:35,609
+- Hello?
+- I caught you.
+
+370
+00:33:36,278 --> 00:33:40,180
+- Barely. I've got a big date tonight.
+- Big, special or big, large?
+
+371
+00:33:40,348 --> 00:33:44,341
+I don't know. I haven't met Peggy
+the secretary yet. What's up?
+
+372
+00:33:44,519 --> 00:33:48,353
+I had a thought. Remember that
+Andrew Kilburn guy and his review?
+
+373
+00:33:48,523 --> 00:33:50,286
+Yeah, sure. What about it?
+
+374
+00:33:50,559 --> 00:33:53,084
+Well, why use his account?
+
+375
+00:33:53,261 --> 00:33:56,992
+I mean, maybe it wasn't random.
+Maybe they know each other.
+
+376
+00:33:57,466 --> 00:33:59,696
+- Yeah, it's possible.
+- Yeah.
+
+377
+00:33:59,868 --> 00:34:02,996
+- All right. I'll see you Sunday.
+- Wait, Sunday?
+
+378
+00:34:04,372 --> 00:34:05,498
+Annie's birthday.
+
+379
+00:34:06,174 --> 00:34:09,200
+Oh, shit, I forgot.
+
+380
+00:34:09,377 --> 00:34:11,743
+- Okay, can I bring a date?
+- Are you kidding?
+
+381
+00:34:12,013 --> 00:34:14,038
+You don't even know
+if you like this girl.
+
+382
+00:34:14,216 --> 00:34:17,674
+No, not Peggy. Melanie.
+She's a social worker.
+
+383
+00:34:17,853 --> 00:34:20,413
+She likes sushi and rock-climbing
+and Dickens.
+
+384
+00:34:20,589 --> 00:34:24,218
+- I can't believe you.
+- It's a numbers game.
+
+385
+00:34:24,392 --> 00:34:27,020
+Fine, fine. I gotta go.
+
+386
+00:34:27,195 --> 00:34:29,595
+Okay. Hey, you got a date?
+
+387
+00:34:29,765 --> 00:34:33,758
+- Good night.
+- Okay. Bye. Good night, Sam.
+
+388
+00:34:47,816 --> 00:34:49,681
+Molly gave me
+a birthday present already.
+
+389
+00:34:49,851 --> 00:34:51,751
+It's a computer game
+that I downloaded.
+
+390
+00:34:51,920 --> 00:34:54,946
+- It's about horses.
+- How sweet of her. That looks like fun.
+
+391
+00:34:55,957 --> 00:34:57,948
+Not really. It's kind of silly.
+
+392
+00:34:58,960 --> 00:35:03,294
+- I'll show it to you later.
+- Okay, honey. I love you. Gotta run.
+
+393
+00:35:34,563 --> 00:35:37,532
+Come on, Annie. Let me get one first.
+
+394
+00:35:39,734 --> 00:35:41,429
+Somebody order a bunch of pizzas?
+
+395
+00:35:41,603 --> 00:35:42,968
+- Thank you.
+- You're welcome.
+
+396
+00:35:43,138 --> 00:35:45,197
+- Hey, Griffin.
+- For the birthday girl. Hello.
+
+397
+00:35:45,373 --> 00:35:48,206
+- How are you? Over here?
+- Over here.
+
+398
+00:35:50,946 --> 00:35:54,177
+Listen, I only made it through
+a few months of Kilburn's posts.
+
+399
+00:35:54,349 --> 00:35:56,146
+- We'll need more bodies on this.
+- Okay.
+
+400
+00:35:56,318 --> 00:36:01,085
+He blogged, he uploaded vids, he
+built sites. He practically lived online.
+
+401
+00:36:01,256 --> 00:36:04,248
+- What, not anymore?
+- Not since he died...
+
+402
+00:36:04,426 --> 00:36:07,793
+...of something called
+diabetic ketoacidosis.
+
+403
+00:36:07,963 --> 00:36:11,296
+Which is what happens when you
+don't take your insulin for a few days.
+
+404
+00:36:11,466 --> 00:36:14,367
+Anyway, an hour after his body
+was found...
+
+405
+00:36:14,536 --> 00:36:15,696
+...Kill With Me went up.
+
+406
+00:36:15,871 --> 00:36:18,840
+And an hour after that, Kilburn's
+review was spammed Web-wide.
+
+407
+00:36:19,007 --> 00:36:22,875
+- And you think our guy killed him?
+- The ME called it a suicide.
+
+408
+00:36:48,270 --> 00:36:49,498
+Hi.
+
+409
+00:36:49,671 --> 00:36:51,332
+You're right on time.
+
+410
+00:36:51,506 --> 00:36:55,101
+Yeah, well, it's a curse.
+I spend half my life waiting for people.
+
+411
+00:36:55,277 --> 00:36:58,405
+So... Dave Williams.
+
+412
+00:37:01,182 --> 00:37:05,619
+That's a great address, by the way.
+Eights bring prosperity.
+
+413
+00:37:05,787 --> 00:37:08,688
+- I didn't know that.
+- Yeah.
+
+414
+00:37:09,524 --> 00:37:11,617
+- Come in.
+- Thanks.
+
+415
+00:37:27,542 --> 00:37:28,566
+Here you go, honey.
+
+416
+00:37:28,743 --> 00:37:30,802
+- Thanks.
+- You're welcome.
+
+417
+00:37:35,550 --> 00:37:36,676
+Detective.
+
+418
+00:37:36,851 --> 00:37:38,978
+- Hi.
+- Hi.
+
+419
+00:37:39,154 --> 00:37:42,487
+Griffin invited me
+to his birthday party.
+
+420
+00:37:44,059 --> 00:37:46,220
+Yeah. Kind of a young crowd.
+
+421
+00:37:46,394 --> 00:37:48,453
+Kind of a young crowd, Griffin.
+
+422
+00:37:48,630 --> 00:37:51,463
+- Well, do you skate?
+- No.
+
+423
+00:37:51,633 --> 00:37:53,658
+- Thank you.
+- Yeah, go ahead.
+
+424
+00:37:53,835 --> 00:37:56,668
+Look, I'm gonna get out of here.
+I'm sorry.
+
+425
+00:37:56,838 --> 00:38:00,672
+You just got here. Don't go.
+Have some pizza.
+
+426
+00:38:00,842 --> 00:38:03,811
+Come on. It's not that bad.
+
+427
+00:38:13,488 --> 00:38:16,651
+Wow, you must really like Asia, huh?
+
+428
+00:38:18,660 --> 00:38:20,491
+Just Korea.
+
+429
+00:38:22,864 --> 00:38:24,593
+Korea.
+
+430
+00:38:25,066 --> 00:38:27,057
+Well, it's fabulous.
+
+431
+00:38:28,269 --> 00:38:29,827
+Thank you.
+
+432
+00:38:32,640 --> 00:38:34,574
+So you gonna let me see them?
+
+433
+00:38:35,143 --> 00:38:36,838
+Of course.
+
+434
+00:38:37,779 --> 00:38:39,246
+Through the kitchen.
+
+435
+00:38:42,417 --> 00:38:46,649
+I gotta tell you, a 710 Pullman
+and a 712 Observation Car?
+
+436
+00:38:46,821 --> 00:38:48,948
+My heart skipped a beat
+when I got your e-mail.
+
+437
+00:38:49,124 --> 00:38:53,288
+- Lf they're really in mint condition...
+- My dad and I hardly ever used them.
+
+438
+00:38:53,828 --> 00:38:58,026
+We mostly played foosball
+and we built things.
+
+439
+00:38:59,467 --> 00:39:02,436
+Toys, contraptions.
+
+440
+00:39:03,004 --> 00:39:05,029
+We had a workshop.
+
+441
+00:39:05,707 --> 00:39:07,641
+He died last year.
+
+442
+00:39:10,378 --> 00:39:13,404
+Well, I'm sorry.
+
+443
+00:39:27,462 --> 00:39:28,063
+Annie, would you come over here
+for a second? Bring your skates.
+
+444
+00:39:28,063 --> 00:39:30,691
+Annie, would you come over here
+for a second? Bring your skates.
+
+445
+00:39:30,865 --> 00:39:33,959
+- Okay.
+- I want you to meet someone.
+
+446
+00:39:36,404 --> 00:39:39,464
+This is Annie, the birthday girl.
+This is my friend, Eric.
+
+447
+00:39:39,641 --> 00:39:41,438
+- Hello, Annie.
+- Hi.
+
+448
+00:39:41,609 --> 00:39:43,440
+- Happy birthday.
+- Thanks.
+
+449
+00:39:43,912 --> 00:39:45,812
+You must be, what, 8?
+
+450
+00:39:46,314 --> 00:39:48,805
+How did you know?
+Everyone else thinks I'm older.
+
+451
+00:39:50,118 --> 00:39:51,585
+Well, I'm a detective.
+
+452
+00:39:53,521 --> 00:39:55,921
+- Are you ready to go skating finally?
+- I think.
+
+453
+00:40:12,540 --> 00:40:14,565
+I sure hope you like it.
+
+454
+00:40:14,742 --> 00:40:16,369
+It's a punching bag.
+
+455
+00:40:16,544 --> 00:40:17,772
+Okay, so you blow it up...
+
+456
+00:40:17,946 --> 00:40:20,176
+...and whenever you
+get in a really bad mood...
+
+457
+00:40:20,348 --> 00:40:21,906
+...you sock it in the head.
+
+458
+00:40:23,251 --> 00:40:24,275
+Can I do karate on it?
+
+459
+00:40:24,452 --> 00:40:28,616
+Of course you can. You can do karate,
+kung fu, tae kwon do.
+
+460
+00:40:28,790 --> 00:40:31,816
+- Thank you, Griffin.
+- You're welcome, sweetie.
+
+461
+00:40:31,993 --> 00:40:33,324
+That might be my date.
+
+462
+00:40:35,530 --> 00:40:37,088
+Mom.
+
+463
+00:40:39,200 --> 00:40:41,225
+Oh, come on.
+
+464
+00:40:41,836 --> 00:40:43,064
+Happy birthday, sweetie.
+
+465
+00:40:43,238 --> 00:40:44,398
+- Have fun.
+- Thanks.
+
+466
+00:40:46,441 --> 00:40:48,341
+Sweetheart...
+
+467
+00:40:48,843 --> 00:40:49,832
+...I gotta go.
+
+468
+00:40:50,044 --> 00:40:52,877
+It's a real emergency, or I
+would never leave you like this.
+
+469
+00:40:53,047 --> 00:40:56,016
+- I'll make it up to you, I promise. Okay?
+- Okay.
+
+470
+00:40:58,720 --> 00:41:00,745
+I'm looking for Griffin Dowd. He's...
+
+471
+00:41:00,922 --> 00:41:01,911
+- Yeah. Hi.
+- Hi.
+
+472
+00:41:02,090 --> 00:41:03,887
+- I'm Melanie.
+- Oh, yes. Hi, Melanie.
+
+473
+00:41:04,058 --> 00:41:07,186
+Wow, you are gorgeous.
+I'm sorry. I've gotta run.
+
+474
+00:41:38,126 --> 00:41:39,684
+Todd!
+
+475
+00:41:40,461 --> 00:41:42,554
+Isn't that your dad?
+
+476
+00:41:50,905 --> 00:41:54,068
+- Same build, same coloring.
+- The counter's faster than last time.
+
+477
+00:41:54,776 --> 00:41:56,368
+Yeah.
+
+478
+00:41:57,412 --> 00:41:59,403
+I swear I've seen this guy
+somewhere before.
+
+479
+00:41:59,581 --> 00:42:01,606
+- Yeah.
+- We all have. He's David Williams.
+
+480
+00:42:01,783 --> 00:42:03,808
+He used to be
+a reporter for Channel 12.
+
+481
+00:42:04,085 --> 00:42:06,246
+He now hosts a TV show
+on public access.
+
+482
+00:42:06,487 --> 00:42:08,318
+Call Bagley.
+Set up a press conference.
+
+483
+00:42:08,489 --> 00:42:11,083
+Sir, wait just a minute, please.
+
+484
+00:42:11,492 --> 00:42:14,393
+This is what he wants. Anything
+you say will promote the site.
+
+485
+00:42:14,562 --> 00:42:16,792
+That's a possibility,
+but what would you prefer?
+
+486
+00:42:16,965 --> 00:42:18,557
+Talk to National Security Agency.
+
+487
+00:42:18,733 --> 00:42:21,531
+Their computer capability's
+beyond ours. We need their help.
+
+488
+00:42:21,703 --> 00:42:24,297
+That's fine, but I've got
+a man being publicly tortured.
+
+489
+00:42:24,472 --> 00:42:27,908
+How will it look if he dies and the
+Bureau never tried to help the guy?
+
+490
+00:42:28,076 --> 00:42:31,842
+Not as bad as if we reach out
+and it kills him faster.
+
+491
+00:42:32,880 --> 00:42:35,508
+You honestly believe
+that could happen?
+
+492
+00:42:37,418 --> 00:42:39,010
+Yes, sir, I do.
+
+493
+00:42:47,495 --> 00:42:48,792
+I'm sorry, Marsh.
+
+494
+00:42:50,598 --> 00:42:52,327
+I got no choice.
+
+495
+00:43:19,994 --> 00:43:22,258
+We're gathered here
+to share some information...
+
+496
+00:43:22,430 --> 00:43:24,125
+... in regards to criminal conduct...
+
+497
+00:43:24,299 --> 00:43:27,063
+... that originated in the
+Portland metropolitan area...
+
+498
+00:43:27,235 --> 00:43:30,329
+... but that has
+far-reaching implications.
+
+499
+00:43:30,505 --> 00:43:32,473
+Let me introduce
+Special Agent-in-Charge...
+
+500
+00:43:32,640 --> 00:43:35,040
+... of the FBI's Portland field office...
+
+501
+00:43:35,209 --> 00:43:37,177
+...Richard Brooks.
+
+502
+00:43:38,579 --> 00:43:40,103
+Thank you, chief.
+
+503
+00:43:41,149 --> 00:43:44,812
+A week ago, a man was killed
+in this city.
+
+504
+00:43:45,720 --> 00:43:50,487
+This barbaric, cowardly murder
+was streamed live on the Internet.
+
+505
+00:43:50,658 --> 00:43:54,560
+As part of the killer's design, the more
+people who logged on to the site...
+
+506
+00:43:54,729 --> 00:43:59,166
+... to witness the victim's suffering,
+the sooner the victim died.
+
+507
+00:43:59,334 --> 00:44:01,564
+Millions of Americans
+chose to visit the site...
+
+508
+00:44:01,736 --> 00:44:06,435
+... believing that they were witnessing
+a mere hoax, a stunt or a prank.
+
+509
+00:44:06,607 --> 00:44:08,199
+Well, unfortunately, it wasn't.
+
+510
+00:44:08,376 --> 00:44:10,003
+Today a second individual...
+
+511
+00:44:10,178 --> 00:44:13,079
+... has appeared on the site
+and his life, too, is in jeopardy.
+
+512
+00:44:13,247 --> 00:44:16,705
+The victim is the doting father
+of two boys...
+
+513
+00:44:18,553 --> 00:44:20,919
+... a loving husband of 22 years...
+
+514
+00:44:21,089 --> 00:44:24,547
+... and a devoted son. In other words,
+he's a good American, one of us.
+
+515
+00:44:24,726 --> 00:44:28,856
+The torture that he is experiencing
+now is unimaginable in its cruelty.
+
+516
+00:44:29,630 --> 00:44:30,927
+We're doing what we can...
+
+517
+00:44:31,099 --> 00:44:34,262
+... to shut down the site
+and bring the killer to justice.
+
+518
+00:44:34,502 --> 00:44:37,437
+In the meantime, we ask that
+everyone stay away from the site.
+
+519
+00:44:38,072 --> 00:44:40,165
+Any visit to this site,
+no matter how brief...
+
+520
+00:44:40,341 --> 00:44:42,400
+...will only hasten the victim's death.
+
+521
+00:44:44,479 --> 00:44:47,971
+Any American who visits the site
+is an accomplice to murder.
+
+522
+00:44:48,149 --> 00:44:50,583
+We are the murder weapon.
+
+523
+00:44:50,752 --> 00:44:54,518
+- We ask that you spread the word...
+- Let's main-screen the website.
+
+524
+00:44:55,790 --> 00:44:58,782
+Hey, Tim, I think
+he's trying to say something.
+
+525
+00:45:03,030 --> 00:45:05,294
+Eight... Eight...
+
+526
+00:45:07,902 --> 00:45:10,336
+Eight, eight, eight.
+
+527
+00:45:10,905 --> 00:45:12,998
+Oh, I get it. It's an address, I think.
+
+528
+00:45:13,608 --> 00:45:17,635
+Eight... Eight-oh-eight...
+
+529
+00:45:17,812 --> 00:45:19,473
+...Newberry.
+- Newberry?
+
+530
+00:45:19,647 --> 00:45:21,615
+There's a Newberry Road
+in Laurelhurst.
+
+531
+00:45:47,208 --> 00:45:48,232
+Police! Open the door!
+
+532
+00:46:09,397 --> 00:46:11,194
+Basement's here!
+
+533
+00:46:24,779 --> 00:46:25,803
+It's the wrong house.
+
+534
+00:46:33,988 --> 00:46:36,650
+- Any American who visits the site...
+- He was here, though.
+
+535
+00:46:36,824 --> 00:46:40,055
+... is an accomplice to murder.
+We are the murder weapon.
+
+536
+00:46:40,228 --> 00:46:44,221
+Any American who visits the site
+is an accomplice to murder.
+
+537
+00:46:44,398 --> 00:46:47,196
+We are the murder weapon.
+Any American...
+
+538
+00:46:47,368 --> 00:46:50,667
+All right. We should send
+Forensics in here.
+
+539
+00:46:52,373 --> 00:46:56,104
+Any American who visits the site
+is an accomplice to murder.
+
+540
+00:46:56,277 --> 00:46:59,110
+We are the murder weapon.
+
+541
+00:47:04,585 --> 00:47:09,613
+Yeah, I understand that. Just
+have her check it again, okay?
+
+542
+00:47:09,790 --> 00:47:13,021
+- Six hours. So fast.
+- Twice as fast as Miller.
+
+543
+00:47:13,294 --> 00:47:15,762
+Nobody thinks
+they did anything wrong.
+
+544
+00:47:16,464 --> 00:47:20,901
+Why should they?
+They're curious about a website.
+
+545
+00:47:21,402 --> 00:47:23,893
+You check the headlines,
+check the stock market...
+
+546
+00:47:24,071 --> 00:47:26,096
+...watch some strangers have sex.
+
+547
+00:47:26,574 --> 00:47:29,134
+See a journalist get his head cut off.
+
+548
+00:47:31,979 --> 00:47:34,709
+When did the world
+go so fucking insane?
+
+549
+00:47:37,318 --> 00:47:39,912
+You've been working
+the streets too long.
+
+550
+00:47:40,621 --> 00:47:44,751
+He was definitely here.
+He just got moved and didn't know it.
+
+551
+00:47:48,930 --> 00:47:51,592
+So Mrs. Williams is checking her
+husband's e-mail for us.
+
+552
+00:47:53,901 --> 00:47:57,496
+She says he was contacted about the
+trains through the public TV website.
+
+553
+00:47:58,773 --> 00:48:02,573
+I guess in his bio, he mentions he's
+a collector. That was about a week ago.
+
+554
+00:48:03,077 --> 00:48:04,203
+Who owns the house?
+
+555
+00:48:04,378 --> 00:48:10,214
+Tom Park, 60s, widower. He's out
+of town visiting family in South Korea.
+
+556
+00:48:10,384 --> 00:48:13,547
+He runs a local market here.
+He makes the trip every year.
+
+557
+00:48:14,121 --> 00:48:16,419
+So our guy's a customer.
+
+558
+00:48:16,757 --> 00:48:19,749
+We're trying to get ahold of Mr. Park,
+see if he knows anything.
+
+559
+00:48:19,927 --> 00:48:23,055
+We'll do a canvass. Seems like
+a pretty tight-knit community.
+
+560
+00:48:23,230 --> 00:48:24,822
+Maybe somebody saw something.
+
+561
+00:49:40,341 --> 00:49:41,968
+Did you see this?
+
+562
+00:49:45,046 --> 00:49:47,378
+On the bright side, along with
+every other daily...
+
+563
+00:49:47,548 --> 00:49:49,641
+...they're not printing
+the name of the site.
+
+564
+00:49:49,817 --> 00:49:51,751
+Well, isn't that noble?
+
+565
+00:49:51,919 --> 00:49:53,113
+A little late, though.
+
+566
+00:49:55,022 --> 00:49:58,219
+Did Annie ever forgive you
+for bailing on the party?
+
+567
+00:49:58,592 --> 00:50:02,460
+Yeah. After 11 bedtime stories.
+Thank you.
+
+568
+00:50:03,731 --> 00:50:07,497
+You know, when we first met,
+I knew you looked familiar.
+
+569
+00:50:10,404 --> 00:50:12,372
+Nick and I came up together.
+
+570
+00:50:15,276 --> 00:50:17,904
+Nick Haskins.
+That was Annie's father, right?
+
+571
+00:50:18,979 --> 00:50:20,810
+Did he introduce us?
+
+572
+00:50:21,982 --> 00:50:25,611
+No. No, we never met.
+I saw you at the funeral.
+
+573
+00:50:27,755 --> 00:50:29,382
+Right.
+
+574
+00:50:34,729 --> 00:50:38,631
+Anyway, he was a...
+He was a great guy.
+
+575
+00:50:39,500 --> 00:50:42,128
+Yeah, he was a great guy.
+
+576
+00:50:51,812 --> 00:50:55,009
+It's apparent our subject
+is extremely organized...
+
+577
+00:50:55,182 --> 00:50:56,911
+...and sophisticated.
+
+578
+00:50:57,084 --> 00:50:59,746
+And based upon his ability
+to subdue his victims...
+
+579
+00:50:59,920 --> 00:51:02,684
+...transport them and maintain
+physical control over them...
+
+580
+00:51:02,857 --> 00:51:06,588
+...in a private setting, I'd describe
+the offender as highly capable.
+
+581
+00:51:06,761 --> 00:51:08,729
+Remember, he's not going
+after easy prey.
+
+582
+00:51:08,896 --> 00:51:11,330
+These abductions leave him exposed.
+
+583
+00:51:11,499 --> 00:51:14,798
+Even the kitten he stole
+in broad daylight. Why the risks?
+
+584
+00:51:14,969 --> 00:51:19,736
+Because each of these actions was
+absolutely essential to his purpose.
+
+585
+00:51:19,907 --> 00:51:22,467
+You wanna catch him,
+understand his goals.
+
+586
+00:51:22,643 --> 00:51:24,634
+You know, this guy...
+
+587
+00:51:24,812 --> 00:51:27,303
+...he's the same as
+the Unabomber, Tim McVeigh.
+
+588
+00:51:27,481 --> 00:51:29,745
+He's another terrorist
+trying to make a statement.
+
+589
+00:51:29,917 --> 00:51:33,785
+Maybe. Still, it goes back to his goals.
+Why kill these particular people?
+
+590
+00:51:34,121 --> 00:51:36,555
+And why is he killing them
+on the Internet?
+
+591
+00:51:36,724 --> 00:51:40,285
+My guess, none of it's random.
+None of it.
+
+592
+00:51:45,766 --> 00:51:51,204
+Okay. Every post Kilburn ever left.
+Thousands. And a couple of DVDs.
+
+593
+00:51:51,372 --> 00:51:55,741
+One for you, one for me. Every
+video clip that he ever uploaded.
+
+594
+00:51:55,910 --> 00:51:59,368
+That was his real hobby, was
+pulling the sick shit off the Net...
+
+595
+00:51:59,547 --> 00:52:02,812
+...and then posting it
+on shock-video sites.
+
+596
+00:52:03,617 --> 00:52:07,018
+Anyways, this is the last post
+before he died.
+
+597
+00:52:07,388 --> 00:52:09,413
+It's sort of a best-of compilation...
+
+598
+00:52:09,590 --> 00:52:12,115
+...something he called
+"The Best of the Worst."
+
+599
+00:52:18,432 --> 00:52:19,558
+Oh, yeah.
+
+600
+00:52:22,036 --> 00:52:24,869
+Poor Kilburn. He had so much
+to offer the world.
+
+601
+00:52:25,039 --> 00:52:26,267
+Yeah.
+
+602
+00:52:26,640 --> 00:52:30,440
+I got four more bodies from Brooks,
+so let's share the pain, shall we?
+
+603
+00:52:30,611 --> 00:52:32,044
+Great.
+
+604
+00:53:27,735 --> 00:53:29,566
+Okay.
+
+605
+00:54:21,422 --> 00:54:25,153
+Mom. TiVo's not working.
+
+606
+00:54:25,326 --> 00:54:28,454
+Okay, honey.
+Look, I'll be out in a minute.
+
+607
+00:54:58,292 --> 00:55:01,352
+Mom, there's a video of our house
+on the computer.
+
+608
+00:55:01,528 --> 00:55:04,827
+Watch whatever you want, honey.
+I'll be right out.
+
+609
+00:55:41,535 --> 00:55:43,935
+Hey, Griff. Good morning.
+
+610
+00:55:58,852 --> 00:55:59,910
+Annie.
+
+611
+00:56:09,463 --> 00:56:11,090
+Annie!
+
+612
+00:56:13,000 --> 00:56:14,763
+- Annie!
+- Mom?
+
+613
+00:56:19,106 --> 00:56:22,234
+Baby, what are you doing out here?
+What are you doing outside?
+
+614
+00:56:22,409 --> 00:56:24,775
+I was just gonna ride my bike
+for the camera.
+
+615
+00:56:24,945 --> 00:56:27,038
+You stay with Grandma.
+
+616
+00:56:39,193 --> 00:56:41,491
+Hey. Hey, that's evidence.
+
+617
+00:56:41,662 --> 00:56:44,597
+- I'm sorry. My daughter, she...
+- It's okay. We're here now.
+
+618
+00:56:44,765 --> 00:56:47,632
+It's okay.
+Do you know whose car this is?
+
+619
+00:56:47,801 --> 00:56:50,497
+Yeah, I think I have an idea
+whose car this is.
+
+620
+00:56:56,410 --> 00:56:58,002
+God.
+
+621
+00:57:35,782 --> 00:57:38,649
+Annie thought she'd downloaded
+a game from one of her friends.
+
+622
+00:57:38,819 --> 00:57:40,116
+It had a backdoor Trojan.
+
+623
+00:57:40,287 --> 00:57:43,347
+It got him all the way
+into my wireless network.
+
+624
+00:57:43,891 --> 00:57:46,086
+Which means that he has access
+to all my files.
+
+625
+00:58:11,051 --> 00:58:13,986
+Call me when you get there.
+I love you.
+
+626
+00:58:25,899 --> 00:58:27,992
+Why don't you just go with them?
+
+627
+00:58:29,303 --> 00:58:31,066
+What are you waiting for?
+
+628
+00:58:33,273 --> 00:58:35,207
+And do what? Hide out?
+
+629
+00:58:36,210 --> 00:58:37,802
+That's right.
+
+630
+00:58:38,378 --> 00:58:41,404
+I think you've sacrificed enough
+already, don't you?
+
+631
+00:58:43,450 --> 00:58:45,475
+Nobody's gonna blame you
+for taking cover.
+
+632
+00:58:45,652 --> 00:58:48,143
+The piece of shit's camped out
+on your front lawn.
+
+633
+00:58:48,522 --> 00:58:51,184
+Annie's already lost one parent
+to the job, so...
+
+634
+00:58:51,358 --> 00:58:55,260
+...yeah. Get lost.
+
+635
+00:58:58,932 --> 00:59:00,797
+Just my opinion.
+
+636
+00:59:28,795 --> 00:59:32,162
+- Yeah?
+- Hey, Jen. Did they get off okay?
+
+637
+00:59:32,332 --> 00:59:36,166
+Yeah. The Bureau's gonna put
+them up a couple hours away.
+
+638
+00:59:36,336 --> 00:59:38,896
+And I'm gonna stay someplace
+closer to work.
+
+639
+00:59:39,072 --> 00:59:43,133
+Good. So you wanna hear my theory
+why he did this?
+
+640
+00:59:43,310 --> 00:59:44,368
+Of course.
+
+641
+00:59:44,544 --> 00:59:47,308
+There is a connection
+between him and Kilburn...
+
+642
+00:59:47,481 --> 00:59:51,178
+... and he knows you're leading
+the team to find it.
+
+643
+00:59:51,451 --> 00:59:53,544
+I think I might know what
+that connection is.
+
+644
+00:59:53,720 --> 00:59:56,120
+Emphasis on "might."
+A few things I gotta check out.
+
+645
+00:59:56,290 --> 00:59:57,848
+I'm on my way in. Are you coming?
+
+646
+00:59:58,825 --> 01:00:00,156
+I need a couple hours.
+
+647
+01:00:00,460 --> 01:00:01,791
+I'll see you at the office.
+
+648
+01:00:01,962 --> 01:00:03,589
+Okay, I'll show you
+what I got then.
+
+649
+01:00:03,764 --> 01:00:05,197
+Okay.
+
+650
+01:00:09,069 --> 01:00:12,038
+- Griffin Dowd.
+- Hi. It's Melanie.
+
+651
+01:00:13,874 --> 01:00:17,674
+Melanie, hi. I didn't think
+I'd hear from you again.
+
+652
+01:00:17,978 --> 01:00:20,845
+Your e-mail was very sweet.
+
+653
+01:00:21,014 --> 01:00:23,812
+Thank you. Yeah, I spent
+a lot of time on that one.
+
+654
+01:00:25,786 --> 01:00:28,914
+So I heard you hung out
+at the roller rink.
+
+655
+01:00:29,089 --> 01:00:31,114
+Even had some cake?
+
+656
+01:00:31,558 --> 01:00:34,652
+Two pieces. But don't tell anybody.
+
+657
+01:00:34,828 --> 01:00:37,262
+Okay, well,
+your secret is safe with me.
+
+658
+01:00:37,431 --> 01:00:40,730
+Annie really liked you, and
+you know what they say about kids.
+
+659
+01:00:40,901 --> 01:00:44,393
+Along with dogs, they're terrific
+judges of character.
+
+660
+01:00:45,305 --> 01:00:48,365
+What can I say?
+I would have to agree.
+
+661
+01:00:49,343 --> 01:00:51,641
+I'm a total catch.
+
+662
+01:00:59,553 --> 01:01:01,111
+Hi, Ray.
+
+663
+01:01:16,236 --> 01:01:18,727
+- Where's Griffin?
+- Haven't seen him.
+
+664
+01:01:19,573 --> 01:01:21,404
+Brooks wants to see you.
+
+665
+01:01:21,575 --> 01:01:23,304
+- Now?
+- Now.
+
+666
+01:02:02,182 --> 01:02:05,310
+- Agent Marsh, sir.
+- Yeah, send her in.
+
+667
+01:02:09,189 --> 01:02:11,180
+You wanted to see me, sir?
+
+668
+01:02:11,725 --> 01:02:13,454
+How are you doing?
+
+669
+01:02:13,927 --> 01:02:17,954
+Well, it was an interesting start
+of the day. We're fine.
+
+670
+01:02:18,832 --> 01:02:20,356
+Good.
+
+671
+01:02:20,667 --> 01:02:22,999
+I want you to know
+I did follow up with the NSA.
+
+672
+01:02:23,170 --> 01:02:26,662
+As far as using their supercomputer
+goes, unfortunately the answer's no.
+
+673
+01:02:28,575 --> 01:02:31,408
+- Why not?
+- They're barred for domestic use.
+
+674
+01:02:31,578 --> 01:02:35,605
+Domestic? We've got him using
+mirrors in Russia, Malaysia...
+
+675
+01:02:35,782 --> 01:02:38,842
+It's too public a forum. They
+don't want their capabilities known.
+
+676
+01:02:39,019 --> 01:02:40,452
+As far as what they can and...
+
+677
+01:02:59,272 --> 01:03:02,002
+It's Griffin. It's Griffin!
+
+678
+01:03:06,880 --> 01:03:09,371
+Where do these tubes lead?
+What are those tanks?
+
+679
+01:03:09,549 --> 01:03:11,244
+Tim! Punch in on those tanks.
+
+680
+01:03:14,387 --> 01:03:16,048
+What's that say?
+
+681
+01:03:16,223 --> 01:03:17,315
+"Sulfuric acid"?
+
+682
+01:03:18,391 --> 01:03:19,688
+Sulfuric acid?
+
+683
+01:03:25,599 --> 01:03:27,328
+If that's water in that tank...
+
+684
+01:03:27,934 --> 01:03:30,630
+...pretty soon he's gonna be
+sitting in battery acid.
+
+685
+01:04:06,106 --> 01:04:08,370
+Don't wanna hear about
+bureaus and jurisdictions.
+
+686
+01:04:08,542 --> 01:04:11,204
+This is domestic terrorism,
+plain and simple.
+
+687
+01:04:13,413 --> 01:04:16,974
+Yeah? Well, just get it done.
+Yeah. All right.
+
+688
+01:04:31,498 --> 01:04:35,298
+You know, if no one was watching
+right now, you'd just be sitting in water.
+
+689
+01:04:39,372 --> 01:04:43,274
+But the whole world wants to watch
+you die, and they don't even know you.
+
+690
+01:05:02,796 --> 01:05:05,128
+It's so fast this time.
+
+691
+01:05:06,633 --> 01:05:08,999
+It's word of mouth, I guess.
+
+692
+01:05:10,604 --> 01:05:12,765
+Because I let you keep your badge on.
+
+693
+01:06:25,178 --> 01:06:28,204
+Ray! I need your help.
+
+694
+01:06:34,020 --> 01:06:36,420
+Tim, go in on his eyes.
+
+695
+01:06:40,794 --> 01:06:44,560
+I think he's trying to say something
+to us. Here.
+
+696
+01:06:45,231 --> 01:06:48,667
+Please. Do your best. Hurry!
+
+697
+01:06:52,605 --> 01:06:54,698
+Right eye's dots.
+
+698
+01:06:54,874 --> 01:06:57,434
+Left is... Left is dashes.
+
+699
+01:07:05,351 --> 01:07:06,875
+"S."
+
+700
+01:07:19,065 --> 01:07:20,657
+"I."
+
+701
+01:07:24,904 --> 01:07:26,337
+"D."
+
+702
+01:07:59,172 --> 01:08:01,197
+There aren't any other kids here...
+
+703
+01:08:01,374 --> 01:08:04,366
+... but the swimming pool's fun
+and there's satellite TV.
+
+704
+01:08:05,044 --> 01:08:07,069
+Mom, are you there?
+
+705
+01:08:09,682 --> 01:08:11,513
+We miss you, Mommy.
+When are you coming?
+
+706
+01:08:11,684 --> 01:08:16,018
+It's starting to get really boring.
+Your work isn't done yet?
+
+707
+01:08:16,656 --> 01:08:18,521
+I wish.
+
+708
+01:08:21,161 --> 01:08:22,753
+Mom?
+
+709
+01:08:23,730 --> 01:08:24,822
+I have to go now, honey.
+
+710
+01:08:25,165 --> 01:08:27,793
+Listen, you call me
+as soon as you wake up. Okay, bug?
+
+711
+01:08:27,967 --> 01:08:31,528
+- It's Box.
+- I will. Love you. Say hi to Griffin.
+
+712
+01:08:31,704 --> 01:08:35,470
+I love you too, honey. Bye.
+
+713
+01:08:59,966 --> 01:09:01,661
+Dinner.
+
+714
+01:09:11,778 --> 01:09:14,303
+I think I'll take a shower first.
+
+715
+01:09:45,378 --> 01:09:50,816
+The acid was stolen from a research
+lab at Marshall Junior College.
+
+716
+01:09:53,386 --> 01:09:56,719
+The thief apparently knew
+his way around.
+
+717
+01:10:00,093 --> 01:10:04,553
+Looks like... Looks like Griffin
+was baited with a phone call.
+
+718
+01:10:04,731 --> 01:10:08,599
+But we can't trace it because
+it was made with a spoof card.
+
+719
+01:10:08,768 --> 01:10:11,566
+Yeah, it's a phone card.
+Costs about 10 bucks an hour.
+
+720
+01:10:11,738 --> 01:10:14,730
+Lets you program any
+caller ID you want.
+
+721
+01:10:15,975 --> 01:10:19,809
+This guy breached my laptop.
+He must've owned Griffin's too.
+
+722
+01:10:19,979 --> 01:10:22,470
+Figured out where he was vulnerable.
+
+723
+01:10:27,887 --> 01:10:29,616
+Sorry.
+
+724
+01:10:32,959 --> 01:10:35,689
+I'm good at a lot of things, you know?
+
+725
+01:10:36,663 --> 01:10:39,131
+But I'm not good at losing people.
+
+726
+01:10:39,299 --> 01:10:42,234
+I'm bad at losing people.
+
+727
+01:11:54,040 --> 01:11:55,769
+Rush-hour suicide.
+
+728
+01:11:56,976 --> 01:12:01,538
+I'm pretty sure that's what Griffin was
+trying to say. I'm just not sure why.
+
+729
+01:12:04,751 --> 01:12:06,480
+Yeah, I remember.
+
+730
+01:12:06,652 --> 01:12:09,678
+He was a professor, that guy.
+
+731
+01:12:10,156 --> 01:12:13,614
+Andrew Kilburn included this
+in his greatest hits.
+
+732
+01:12:15,695 --> 01:12:19,756
+- I was just there, like a week ago.
+- Where?
+
+733
+01:12:19,999 --> 01:12:24,197
+At the Bridge Diner. You know, the
+one under the Broadway Bridge.
+
+734
+01:12:24,837 --> 01:12:27,499
+I was talking to Scotty Hillman...
+
+735
+01:12:27,673 --> 01:12:30,073
+...the guy who owned the cat.
+That's where he works.
+
+736
+01:12:31,744 --> 01:12:34,110
+What was this guy's name?
+Do you remember?
+
+737
+01:12:35,581 --> 01:12:39,176
+No. I think
+he taught Chemistry, though.
+
+738
+01:12:42,088 --> 01:12:44,648
+At Marshall Junior College?
+
+739
+01:12:52,298 --> 01:12:56,496
+Andrew Kilburn, a sophomore at
+Portland State. Died last month...
+
+740
+01:12:56,669 --> 01:13:00,230
+...but that didn't stop him
+from recommending, after he died...
+
+741
+01:13:00,406 --> 01:13:03,807
+...a new website called
+killwithme. Com.
+
+742
+01:13:04,143 --> 01:13:08,204
+How'd he do that? He didn't.
+The killer did, using his account.
+
+743
+01:13:08,381 --> 01:13:11,145
+When Agent Griffin Dowd's
+investigation revealed why...
+
+744
+01:13:11,317 --> 01:13:13,410
+...this deceased college student
+was chosen...
+
+745
+01:13:13,586 --> 01:13:17,750
+...to promote the Kill With Me site,
+it cost him his life.
+
+746
+01:13:22,028 --> 01:13:24,292
+This is James Reilly.
+
+747
+01:13:24,664 --> 01:13:25,892
+Sixteen months ago...
+
+748
+01:13:26,065 --> 01:13:29,091
+...depressed over the recent death
+of his wife, a hematologist...
+
+749
+01:13:29,268 --> 01:13:33,500
+...Reilly staggered out into rush-hour
+traffic on the Broadway Bridge.
+
+750
+01:13:33,673 --> 01:13:35,573
+Traffic copters were out in force...
+
+751
+01:13:35,741 --> 01:13:38,608
+...but only one caught all the action
+from beginning to end...
+
+752
+01:13:38,778 --> 01:13:40,211
+...Channel 12.
+
+753
+01:13:40,880 --> 01:13:44,509
+The regular pilot was out sick that day,
+so the job went to Herbert Miller.
+
+754
+01:13:45,985 --> 01:13:50,888
+He later told friends he'd gotten lucky.
+At the right place at the right time.
+
+755
+01:13:55,695 --> 01:13:57,185
+The back of Reilly's skull...
+
+756
+01:13:57,363 --> 01:14:00,890
+...landed on the rooftop
+of this diner. So did his glasses.
+
+757
+01:14:01,067 --> 01:14:03,035
+The skull was turned over
+to the coroner...
+
+758
+01:14:03,202 --> 01:14:06,694
+...but the glasses were retrieved
+by one of the diner's employees...
+
+759
+01:14:06,873 --> 01:14:08,067
+...Scotty Hillman.
+
+760
+01:14:08,908 --> 01:14:10,808
+He put them up for sale online.
+
+761
+01:14:10,977 --> 01:14:12,740
+And they sold quickly.
+
+762
+01:14:12,912 --> 01:14:15,176
+Kids were home from school.
+Parents were outraged.
+
+763
+01:14:15,348 --> 01:14:17,908
+They called the TV stations.
+The TV stations apologized.
+
+764
+01:14:18,084 --> 01:14:19,483
+Except for Channel 12.
+
+765
+01:14:19,652 --> 01:14:23,110
+They'd been having a little problem
+in the ratings, but not that afternoon.
+
+766
+01:14:23,289 --> 01:14:24,916
+Their numbers were sky-high.
+
+767
+01:14:25,091 --> 01:14:27,616
+And knowing a good thing
+when it fell into their lap...
+
+768
+01:14:27,793 --> 01:14:30,091
+...they rushed a veteran reporter
+to the scene.
+
+769
+01:14:30,263 --> 01:14:31,457
+This is David Williams...
+
+770
+01:14:31,631 --> 01:14:34,464
+He got lucky, landed an interview
+with a local businessman...
+
+771
+01:14:34,634 --> 01:14:37,694
+...whose parked Cadillac had been
+struck by Reilly's falling body.
+
+772
+01:14:37,870 --> 01:14:39,132
+When the interview ended...
+
+773
+01:14:39,305 --> 01:14:42,297
+...Channel 12, as a courtesy to
+those who might have missed it...
+
+774
+01:14:42,475 --> 01:14:44,841
+...aired the entire video one last time.
+
+775
+01:14:45,011 --> 01:14:47,775
+Within minutes, Andrew Kilburn
+had pulled it off his TiVo...
+
+776
+01:14:47,947 --> 01:14:51,075
+...and posted it on five different
+shock-video sites.
+
+777
+01:14:51,250 --> 01:14:54,378
+From there, Reilly's suicide
+was public domain.
+
+778
+01:14:54,554 --> 01:14:59,685
+Something for five billion people
+to feed on, laugh at, gossip about.
+
+779
+01:14:59,859 --> 01:15:01,793
+Reilly had a son, Owen.
+
+780
+01:15:02,929 --> 01:15:06,296
+He was brilliant. Good at electronics,
+mechanics and computers...
+
+781
+01:15:06,465 --> 01:15:09,798
+... but he was disturbed.
+He was troubled. He was withdrawn.
+
+782
+01:15:10,436 --> 01:15:12,768
+Owen took his father's suicide
+very hard.
+
+783
+01:15:12,939 --> 01:15:16,705
+He had to be hospitalized.
+And six months ago he was released.
+
+784
+01:15:17,476 --> 01:15:20,343
+This x-ray image is supposed to be
+Owen's father.
+
+785
+01:15:20,513 --> 01:15:23,209
+The number on the left,
+the date his father died...
+
+786
+01:15:24,217 --> 01:15:27,482
+...followed by the number
+of his autopsy report.
+
+787
+01:15:27,887 --> 01:15:30,788
+Owen lives alone now
+at his father's house in Fairview.
+
+788
+01:15:30,957 --> 01:15:33,221
+What do you say we arrest
+the piece of shit?
+
+789
+01:15:35,056 --> 01:15:36,717
+Go! Go!
+
+790
+01:16:12,327 --> 01:16:13,589
+Basement's clear!
+
+791
+01:16:28,643 --> 01:16:30,440
+This is bad.
+
+792
+01:17:04,012 --> 01:17:07,072
+There are new developments
+in the Internet murder investigation...
+
+793
+01:17:07,248 --> 01:17:10,740
+... tonight out of Portland, Oregon.
+For more, let's turn to Marilyn Deutsch.
+
+794
+01:17:10,918 --> 01:17:13,648
+Right. Police now say they know
+who is kidnapping people...
+
+795
+01:17:13,821 --> 01:17:16,756
+... in this area and then killing them
+live on the Web.
+
+796
+01:17:17,125 --> 01:17:20,891
+Take a look at this picture. Police say
+the suspect's name is Owen Reilly.
+
+797
+01:17:21,062 --> 01:17:24,828
+He is 20 years old,
+and just nine months ago...
+
+798
+01:17:25,566 --> 01:17:27,158
+First...
+
+799
+01:17:27,335 --> 01:17:30,862
+...I just wanted to say how sorry I am.
+
+800
+01:17:31,439 --> 01:17:34,237
+This was a loss for all of us...
+
+801
+01:17:34,409 --> 01:17:37,606
+...but most deeply for you,
+and we know that. I know that.
+
+802
+01:17:39,714 --> 01:17:44,276
+You've done everything you
+possibly could. You've given enough.
+
+803
+01:17:45,486 --> 01:17:49,115
+- I want you to take some time off.
+- What?
+
+804
+01:17:49,624 --> 01:17:52,718
+Why? Because now it's personal?
+
+805
+01:17:52,894 --> 01:17:55,158
+This guy's still running around,
+the case is open.
+
+806
+01:17:55,329 --> 01:17:56,694
+The kid's face is everywhere.
+
+807
+01:17:56,864 --> 01:18:00,231
+He's driving around in a 40-year-old
+VW bus with electronics in it.
+
+808
+01:18:00,401 --> 01:18:02,062
+We'll have him
+by this time tomorrow.
+
+809
+01:18:02,236 --> 01:18:05,603
+- Maybe.
+- Jennifer, I'm not only thinking of you.
+
+810
+01:18:07,041 --> 01:18:10,340
+Now join your family. Just for a week.
+
+811
+01:18:12,714 --> 01:18:14,841
+I'll take a day.
+
+812
+01:19:05,099 --> 01:19:07,465
+- Hey.
+- Hey.
+
+813
+01:19:08,002 --> 01:19:11,028
+So, what'd he say?
+
+814
+01:19:11,806 --> 01:19:13,899
+He told me to get lost.
+
+815
+01:19:15,576 --> 01:19:16,941
+Well, he's right.
+
+816
+01:19:19,814 --> 01:19:21,941
+And what did you say?
+
+817
+01:19:27,889 --> 01:19:29,720
+That's what I figured.
+
+818
+01:21:22,169 --> 01:21:24,831
+This has been America News Radio.
+
+819
+01:21:25,006 --> 01:21:28,498
+Now back to your local
+ANR station for news.
+
+820
+01:21:29,143 --> 01:21:31,839
+Good evening.
+You're listening to KMZR, Portland.
+
+821
+01:21:32,013 --> 01:21:34,982
+This is the news at the top
+of the 10:00 hour.
+
+822
+01:21:35,149 --> 01:21:37,777
+Dominating the news again here
+and across the nation...
+
+823
+01:21:37,952 --> 01:21:40,978
+... is the increasingly urgent search
+for the Internet killer...
+
+824
+01:21:41,155 --> 01:21:44,249
+... now known to be
+Owen Reilly of Portland.
+
+825
+01:21:44,425 --> 01:21:48,521
+His most recent victim, an FBI
+cyber-crimes agent, Griffin Dowd...
+
+826
+01:21:48,696 --> 01:21:52,188
+... was discovered dead in Reilly's
+Fairview home basement this morning.
+
+827
+01:21:52,900 --> 01:21:56,233
+In what the FBI is describing as
+the most serious Internet crime wave...
+
+828
+01:21:56,404 --> 01:21:58,929
+... since the computer age began...
+
+829
+01:22:45,219 --> 01:22:46,208
+Shit!
+
+830
+01:22:48,622 --> 01:22:50,351
+Hello, Jennifer.
+
+831
+01:22:55,963 --> 01:22:57,828
+Look out the front window.
+
+832
+01:22:58,632 --> 01:23:00,896
+Under that streetlight.
+
+833
+01:23:02,236 --> 01:23:05,364
+That's where my father's body
+fell over the railing.
+
+834
+01:23:05,539 --> 01:23:07,939
+Some websites show the whole
+thing in slow motion...
+
+835
+01:23:08,109 --> 01:23:11,340
+... because it's just so much
+better that way.
+
+836
+01:23:13,147 --> 01:23:16,207
+One archives it in a section
+called "whoa."
+
+837
+01:23:16,917 --> 01:23:20,409
+That's it. Just "whoa."
+
+838
+01:23:21,722 --> 01:23:23,849
+You and the people you work with...
+
+839
+01:23:24,892 --> 01:23:28,020
+... you let people say and do
+almost anything they want.
+
+840
+01:23:28,195 --> 01:23:30,356
+It doesn't matter who it hurts.
+
+841
+01:23:33,834 --> 01:23:35,961
+I'm sorry, Owen.
+
+842
+01:23:39,673 --> 01:23:41,664
+Owen, are you there?
+
+843
+01:24:17,111 --> 01:24:18,738
+- Call Answering Center.
+- Listen.
+
+844
+01:24:18,913 --> 01:24:20,437
+I'm an agent with the FBI.
+
+845
+01:24:20,614 --> 01:24:23,708
+I need you to connect me
+to the Portland field office.
+
+846
+01:24:23,884 --> 01:24:24,976
+Do you understand?
+
+847
+01:24:37,598 --> 01:24:40,089
+- Yeah.
+- It's Owen!
+
+848
+01:24:40,267 --> 01:24:43,031
+He's hacked into my car's
+computer and my cell phone.
+
+849
+01:24:43,204 --> 01:24:44,637
+I'm on the Broadway Bridge.
+
+850
+01:24:44,805 --> 01:24:47,365
+Don't move. I'll send a
+black-and-white. Stay there.
+
+851
+01:24:47,741 --> 01:24:49,231
+All right.
+
+852
+01:25:47,535 --> 01:25:49,628
+- Box.
+- Lieutenant, I'm on the bridge.
+
+853
+01:25:49,803 --> 01:25:51,236
+There's no sign of Marsh.
+
+854
+01:25:51,405 --> 01:25:54,272
+Okay. Relay that to FBI Portland.
+I'm minutes away.
+
+855
+01:25:55,142 --> 01:25:57,406
+- Hurry. Get the director on the phone.
+- Yes, sir.
+
+856
+01:25:57,578 --> 01:26:00,012
+Shut down every road to and from
+the Broadway Bridge.
+
+857
+01:26:00,181 --> 01:26:02,206
+Every car gets stopped now.
+
+858
+01:27:03,877 --> 01:27:07,142
+I need you to run a check
+on a 2006 Saab.
+
+859
+01:27:07,314 --> 01:27:09,908
+Get me a location, start tracking.
+Name: Jennifer Marsh.
+
+860
+01:27:10,084 --> 01:27:11,813
+Portland, Oregon.
+
+861
+01:27:53,394 --> 01:27:56,522
+Fucker disabled her car's computer.
+We can't track her.
+
+862
+01:28:06,140 --> 01:28:07,539
+Hello.
+
+863
+01:28:49,016 --> 01:28:50,711
+You know...
+
+864
+01:28:50,884 --> 01:28:55,321
+...l'm only doing to you
+what they're going to do to me.
+
+865
+01:28:56,523 --> 01:28:58,150
+Only...
+
+866
+01:28:58,459 --> 01:29:03,624
+...they'll use potassium chloride, and
+they won't let very many people watch.
+
+867
+01:29:05,065 --> 01:29:07,158
+But not for long.
+
+868
+01:29:10,838 --> 01:29:12,203
+You see, soon...
+
+869
+01:29:13,640 --> 01:29:18,475
+...executions will be delivered
+live to our TVs...
+
+870
+01:29:18,912 --> 01:29:23,906
+...our computers, our phones,
+our handhelds...
+
+871
+01:29:24,385 --> 01:29:27,286
+...and it won't cost much.
+
+872
+01:29:27,454 --> 01:29:30,480
+Maybe 10 bucks.
+
+873
+01:29:39,133 --> 01:29:40,998
+Millions of eyes...
+
+874
+01:29:42,669 --> 01:29:46,070
+...all watching the same thing
+at the same time.
+
+875
+01:29:47,040 --> 01:29:49,565
+One big, happy family.
+
+876
+01:29:51,478 --> 01:29:53,639
+And all of it brought to you by...
+
+877
+01:29:59,253 --> 01:30:01,187
+It doesn't matter.
+
+878
+01:30:05,092 --> 01:30:07,788
+They'll have no trouble
+finding sponsors.
+
+879
+01:30:39,660 --> 01:30:42,128
+What's going on?
+We have a signal?
+
+880
+01:30:42,296 --> 01:30:43,558
+We're still locked out.
+
+881
+01:30:43,730 --> 01:30:46,096
+- Stay on it.
+- Yes, sir.
+
+882
+01:31:08,522 --> 01:31:11,821
+I wonder if they'll kill you
+faster or slower.
+
+883
+01:31:14,161 --> 01:31:16,857
+Based on what I've seen online...
+
+884
+01:31:17,731 --> 01:31:21,326
+...the awful things that men do to
+women that other men pay to watch...
+
+885
+01:31:25,639 --> 01:31:28,164
+...my guess would be faster.
+
+886
+01:31:31,979 --> 01:31:33,913
+Much faster.
+
+887
+01:31:53,066 --> 01:31:55,591
+Jesus Christ, it's Marsh!
+
+888
+01:32:08,982 --> 01:32:12,577
+- This is Box.
+- It's Brooks. He's got Marsh on his site.
+
+889
+01:32:13,554 --> 01:32:15,283
+Send it to me.
+
+890
+01:33:35,302 --> 01:33:37,327
+You're giving me my best numbers.
+
+891
+01:33:41,241 --> 01:33:44,301
+That's... That's her basement.
+He's got her in her own basement.
+
+892
+01:33:59,126 --> 01:34:00,559
+No, no.
+
+893
+01:34:12,773 --> 01:34:15,037
+- Did you see that?
+- Fuck!
+
+894
+01:34:17,744 --> 01:34:19,268
+Fuck!
+
+895
+01:34:41,768 --> 01:34:43,292
+Yes!
+
